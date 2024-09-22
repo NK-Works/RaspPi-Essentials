@@ -5,6 +5,7 @@ Welcome to **RaspPi-Essentials**, a collection of essential Raspberry Pi project
 ## Projects Overview
 
 ### 1. Light Sensor Readings using I2C
+- **Directory:** `lux-monitor`
 - **File:** `i2c_lux_monitor.py`
 - **Description:** This script communicates with a light sensor over the I2C protocol to read and display ambient light levels (lux). It demonstrates how to interface with an external sensor using the Raspberry Pi’s I2C bus.
 
