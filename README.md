@@ -18,6 +18,7 @@ Welcome to **RaspPi-Essentials**, a collection of essential Raspberry Pi project
 - **Description:** This project translates text into Morse code and blinks an LED according to the Morse pattern. The user can input messages via a graphical interface, and the Raspberry Pi controls the LED to display the Morse signals.
 
 ### 4. PWM Control on Raspberry Pi
+- **Directory:** `pwm-analyser`
 - **File:** `pi_pwm_control.py`
 - **Description:** This script demonstrates Pulse Width Modulation (PWM) on the Raspberry Pi, allowing precise control over components like motors or LEDs by adjusting duty cycles and frequencies in real-time.
 
