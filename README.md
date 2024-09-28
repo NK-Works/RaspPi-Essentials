@@ -10,7 +10,7 @@ Welcome to **RaspPi-Essentials**, a collection of essential Raspberry Pi project
 - **Description:** This script communicates with a light sensor over the I2C protocol to read and display ambient light levels (lux). It demonstrates how to interface with an external sensor using the Raspberry Pi’s I2C bus.
 
 ### 2. LED Control Panel using GUI
-- **Directory:** `traffic-light-system`
+- **Directory:** `traffic-lights-system`
 - **File:** `led_control_panel.py`
 - **Description:** A graphical interface for controlling the brightness and state of LEDs connected to the Raspberry Pi’s GPIO pins. This project highlights the use of a simple GUI to interact with hardware components.
 
